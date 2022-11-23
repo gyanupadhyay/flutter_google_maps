@@ -1,3 +1,3 @@
-# flutter_google_maps
+# - flutter_google_maps
 
-# Implementation of Google Maps in Flutter
+# - Implementation of Google Maps in Flutter
